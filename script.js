@@ -31,3 +31,4 @@ var media = (nota1 + nota2)/2;
 
 var mensagem = nome + ", você obteve a média : " + media;
 window.alert(mensagem);
+*/
